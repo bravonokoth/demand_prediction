@@ -1,0 +1,75 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (REGENERATED)
+data/*.csv
+data/*.pkl
+
+# Heavy Outputs (REGENERATED)
+outputs/
+*.png
+*.jpg
+*.pdf
+*.json
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+
+# Heavy Python packages (500MB+ SAVED!)
+# NumPy (200MB+)
+**/numpy/**/*
+**/numpy.libs/
+**/numpy.random/**
+
+# Pandas (100MB+)
+**/pandas/**/*
+**/pandas.core/**
+
+# Statsmodels (80MB+)
+**/statsmodels/**/*
+**/statsmodels.tsa/**
+
+# SciPy (120MB+)
+**/scipy/**/*
+**/scipy.sparse/**
+**/scipy.linalg/**
+
+# Matplotlib (50MB+)
+**/matplotlib/**/*
+**/mpl_toolkits/
+**/matplotlib.libs/
+
+# Seaborn (20MB+)
+**/seaborn/**/*
+
+# Cache files
+**/__pycache__/
+**/build/
+**/dist/
+
+# Heavy temp files
+*.tmp
+*.temp
