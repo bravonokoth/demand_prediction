@@ -23,7 +23,7 @@
 - **Validates** accuracy: **RMSE 2.11** | **MAPE 2.77%**
 - **Visualizes** predictions + residual diagnostics
 
-**Perfect for Data Science/ML Portfolios!** 🎯
+
 
 ---
 
@@ -45,7 +45,7 @@
 
 ```bash
 # 1. Clone
-git clone https://github.com/bravon/Demand-Prediction.git
+git clone https://github.com/bravon/demand_prediction.git
 cd demand_prediction
 
 # 2. Setup (Ubuntu)
