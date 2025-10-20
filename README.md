@@ -46,7 +46,7 @@
 ```bash
 # 1. Clone
 git clone https://github.com/bravon/Demand-Prediction.git
-cd Demand-Prediction
+cd demand_prediction
 
 # 2. Setup (Ubuntu)
 sudo apt install python3-distutils -y
@@ -111,12 +111,6 @@ demand-prediction/
 
 ---
 
-## 🎯 **Portfolio Impact**
-**Add this to your Resume:**
-> **AI Demand Prediction System** | *GitHub: bravon/Demand-Prediction*  
-> Built production-grade time-series prediction with **2.77% MAPE accuracy** using SARIMA. Generated synthetic sales data, automated model selection, and 90-day forecasts with confidence intervals.
-
----
 
 ## 📈 **Sample Prediction Output**
 ```csv
@@ -142,25 +136,11 @@ date,prediction,lower_ci,upper_ci
 
 ---
 
-<div align="center">
-
-**⭐ Star if it boosts your portfolio!**  
-**Built with ❤️ for Data Scientists** | **October 2025**
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/bravon?style=social)](https://twitter.com/bravon)
-
-</div>
 ```
 
 ---
 
 ## 🚀 **INSTANT SETUP (15 SECONDS)**
-
-```bash
-# REPLACE README
-cat > README.md << 'EOF'
-[paste entire README above]
-EOF
 
 # COMMIT
 git add README.md
