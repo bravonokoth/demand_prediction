@@ -139,11 +139,3 @@ date,prediction,lower_ci,upper_ci
 ```
 
 ---
-
-## 🚀 **INSTANT SETUP (15 SECONDS)**
-
-# COMMIT
-git add README.md
-git commit -m "✨ Stunning portfolio README with live results!"
-git push origin main
-```
