@@ -134,7 +134,6 @@ date,prediction,lower_ci,upper_ci
 ## 📄 **License**
 [MIT License](LICENSE) - Free to use in portfolios/commercial!
 
----
 
 ```
 
